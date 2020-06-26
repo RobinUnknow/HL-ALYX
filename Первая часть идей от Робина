@@ -1,0 +1,44 @@
+Модельки Альянса:
+Модель Гранта(Лёгкого бойца СЧОПА с ПП) -[Half Life: Alyx] Combine Grunt (Player, NPC, Ragdoll) // ttps://steamcommunity.com/sharedfiles/filedetails/?id=2035168341
+Модель Подавителя (Среднего бойца СЧОПА с пулемётом) - [Half Life: Alyx] Combine Suppressor (Player, NPC, Ragdoll) // https://steamcommunity.com/sharedfiles/filedetails/?id=2064138107
+Модель Молотобойца (Тяжёлого бойца СЧОПА с дробовиком) - [Half Life: Alyx] Combine Suppressor (Player, NPC, Ragdoll) // https://steamcommunity.com/sharedfiles/filedetails/?id=2059548654
+Модель Офицера (Командирский боец СЧОПА с ПП как у Гранта(Но я бы выдал ему Штурмовую винтовку)) - [Half Life: Alyx] Combine Captain (NPC, Player, Ragdoll) // https://steamcommunity.com/sharedfiles/filedetails/?id=2068446620
+Модель Хеликсов,Гридов и ППУшек МБ - HLA: Metropolice P.M. and Ragdoll // https://steamcommunity.com/sharedfiles/filedetails/?id=2036698699
+
+Оружие Альянса:
+ПП Гранта и возможно Офицера - [TFA] HL:A Grunt SMG // https://steamcommunity.com/sharedfiles/filedetails/?id=2122922509
+Пулемёт подавителя - [TFA] HL:A Suppressor LMG // https://steamcommunity.com/sharedfiles/filedetails/?id=2125192178
+Дробовик Молотобойца - [TFA] HL:A Heavy Shotgun // https://steamcommunity.com/sharedfiles/filedetails/?id=2129495898
+Штурмовая винтовка Офицера - Consta's AR2/OSIPR Reanimated [TFA Base] // https://steamcommunity.com/sharedfiles/filedetails/?id=905337128
+Изменение статистик оружий:
+Поднять у ПП с 7 до 15-17 урона(Слишком низкий).Так же можно до 400 RPM сделать скорость стрельбы.
+Дробовик уменьшить урон с 17 до 12,а кол-во дробинок увеличить до 10.
+Штурмовая Винтовка
+Штурмовая Винтовка уменьшить урон с 27 до 20-22,убрать шары из тёмной энергии.
+
+Доп.Аддоны:
+Дубинка - [TFA] Half-Life: Alyx - Stunstick
+ // https://steamcommunity.com/sharedfiles/filedetails/?id=2088618486 P.S. но я бы из данного пака взял бы лишь модель,а всё остальное оставил бы от нынешней дубинки.
+  Сканер ГэО - [Half Life: Alyx] Scanner (Replacement)
+ // https://steamcommunity.com/sharedfiles/filedetails/?id=2069752118
+ P.S. дабы не было абуза убрать на F6,а сделать на терминале ГэО.Манхак - [Half Life: Alyx] Manhack (Replacement) // https://steamcommunity.com/sharedfiles/filedetails/?id=2068451353
+ Рационы - Half-Life: Alyx - Combine Ration Model's // https://steamcommunity.com/sharedfiles/filedetails/?id=2056038710
+
+ Примерные ОТА:
+ OTA.GRUNT(Переводя на нынешние профы Картоха) (Наименование:Лёгкая Единица Зачистки (Л.Е.З) )
+ OTA.SUPPRESOR(Переводя на нынешние профы Оператор) (Наименование:Штурмовая Единица Зачистки (Ш.Е.З) )
+ OTA.WALLHAMMER (Переводя на нынешние профы Слон)(Наименование:Тяжёлая Единица Зачистки (Т.Е.З) )
+ OTA.ORDINAL(Переводя на нынешние профы Кинг/Ордер) (Наименование:Офицерская Единица Зачистки (О.Е.З) )
+
+ Оружие пыщей:
+ Дробовик Пыщей - [TFA] Half-Life: Alyx - Shotgun // https://steamcommunity.com/sharedfiles/filedetails/?id=1996672418
+ Сделать урон 10,но увеличить количество дробинок до 12.
+ Пистолет Аликс - [ TFA ] M1911A1
+ // https://steamcommunity.com/sharedfiles/filedetails/?id=1793040278
+Сделать урон 15 единиц.
+
+
+Общий пистолет:
+Пистолет для всех проф (ГэО,ОТА,Пыщи) - [TFA] USP.45 // https://steamcommunity.com/sharedfiles/filedetails/?id=1647634241
+Сделать урон 12 единиц.
+Нихрена я не украл у Василия,я вообще-то и предлагал тут многое
